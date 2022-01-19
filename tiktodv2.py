@@ -127,3 +127,6 @@ elif auto == 2:
 else:
     driver.get("https://homedecoratione.com/")
     loop3()
+vidUrl = "https://www.tiktok.com/@vidkid2.0/video/7050714010047515950?is_from_webapp=1&sender_device=pc&web_id7051752930554447366" #Change YOUR_URL to your Tik Tok video URL
+username = "vidkid2.0" #Change YOUR_USERNAME to your Tik Tok username
+auto = 50,000 #Change 2 for Tik Tok views
